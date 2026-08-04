@@ -1,5 +1,7 @@
 # Transformacja
 
+Pani Migrena nie obiecuje życia bez migreny. Pomaga odzyskać poczucie wpływu, zrozumienie i życzliwość wobec samej siebie.
+
 Pani Migrena nie obiecuje życia bez migreny.
 
 Obiecuje zmianę sposobu, w jaki żyjesz z migreną.
