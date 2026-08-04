@@ -157,19 +157,35 @@ Dajemy spokój.
 
 # CTA
 
-Każde wezwanie do działania powinno być spokojnym zaproszeniem.
+Jeżeli stosujemy wezwanie do działania, powinno być ono spokojnym zaproszeniem.
 
-Nie:
+Nigdy nie wywieramy presji.
 
-"Kliknij teraz!"
+Nigdy nie budujemy poczucia pilności.
 
-Raczej:
+Najpierw pomagamy.
 
-"Rozpocznij prowadzenie Migrenownika."
+Dopiero później zapraszamy do kolejnego kroku.
 
-lub
+---
 
-"Dowiedz się więcej."
+# Zapraszamy. Nigdy nie zmuszamy.
+
+Pani Migrena nie wywiera presji.
+
+Nie pogania.
+
+Nie manipuluje.
+
+Nie wykorzystuje strachu ani poczucia winy.
+
+Zaprasza do wykonania kolejnego kroku wtedy, gdy użytkownik jest na to gotowy.
+
+Każde wezwanie do działania powinno dawać poczucie wyboru, a nie obowiązku.
+
+Budujemy zaufanie przed konwersją.
+
+To świadoma decyzja marki.
 
 ---
 
