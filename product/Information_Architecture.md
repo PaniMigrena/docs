@@ -26,6 +26,57 @@ Home (Przedsionek)
 
 ---
 
+# Model organizacji treści
+
+Pani Migrena nie organizuje treści według kategorii ani typów publikacji.
+
+Podstawową jednostką organizacji wiedzy jest **Temat**.
+
+Każdy temat prezentowany jest z trzech uzupełniających się perspektyw:
+
+## 🧠 Chcę zrozumieć
+
+Odpowiada na pytanie:
+
+> Co warto wiedzieć?
+
+Dostarcza rzetelnej wiedzy, wyjaśnień oraz odpowiedzi opartych na aktualnej wiedzy medycznej.
+
+Efekt dla użytkownika:
+**Odpowiedź.**
+
+---
+
+## 🌿 Poznaj siebie
+
+Odpowiada na pytanie:
+
+> Jak wygląda to u mnie?
+
+Pomaga użytkownikowi obserwować własne doświadczenia, odkrywać wzorce oraz korzystać z Migrenownika jako narzędzia wspierającego poznawanie siebie.
+
+Efekt dla użytkownika:
+**Odkrycie.**
+
+---
+
+## 🌞 Żyć pełniej
+
+Odpowiada na pytanie:
+
+> Jak mogę żyć pełniej pomimo migreny?
+
+Pokazuje doświadczenia innych osób, inspiracje oraz praktyczne sposoby odzyskiwania przestrzeni na codzienne życie.
+
+Efekt dla użytkownika:
+**Inspiracja.**
+
+---
+
+Każdy istotny temat w serwisie powinien być projektowany z uwzględnieniem wszystkich trzech perspektyw.
+
+---
+
 # Home (Przedsionek)
 
 ## Cel
