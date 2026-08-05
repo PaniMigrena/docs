@@ -16,9 +16,15 @@ Temat nie jest artykułem. Jest kompletną ścieżką poznania jednego zagadnien
 
 ## 1. Wprowadzenie
 
-Krótki opis wyjaśniający, dlaczego dany temat jest ważny dla osoby żyjącej z migreną.
+## 1. Czy to brzmi znajomo?
 
-Celem nie jest przekazanie wiedzy, lecz zbudowanie kontekstu.
+Każdy temat rozpoczyna się krótkim opisem sytuacji z życia, którą użytkownik może rozpoznać jako własne doświadczenie.
+
+Nie jest to historia ani fikcyjny przykład. To opis codziennej sytuacji, która buduje poczucie:
+
+> „To miejsce rozumie, przez co przechodzę.”
+
+Celem nie jest przekazanie wiedzy, lecz stworzenie emocjonalnego połączenia z użytkownikiem i pokazanie, że jego doświadczenie jest zrozumiane.
 
 ---
 
