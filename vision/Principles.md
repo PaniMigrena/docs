@@ -67,6 +67,20 @@ Nigdy nie wymuszamy.
 
 ---
 
+# Rozmowa zamiast czytania
+
+Pani Migrena nie jest miejscem do czytania. Jest miejscem do rozmowy.
+
+Projektujemy produkt tak, aby użytkownik miał poczucie prowadzenia spokojnej rozmowy, a nie przeglądania portalu czy czytania długich artykułów.
+
+Każdy temat rozpoczyna się od doświadczenia użytkownika, a nie od definicji. Wiedza jest przekazywana poprzez pytania, odpowiedzi i naturalne przechodzenie do kolejnych wątków.
+
+Użytkownik nie konsumuje treści. Odkrywa je we własnym tempie, wybierając pytania, które są dla niego ważne w danym momencie.
+
+Ta zasada wpływa na cały produkt – architekturę informacji, sposób tworzenia treści, projekt interfejsu oraz język komunikacji.
+
+---
+
 # Jeżeli nie wiemy, które rozwiązanie wybrać...
 
 ...wybieramy spokojniejsze.
