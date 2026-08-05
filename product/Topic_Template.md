@@ -14,8 +14,6 @@ Temat nie jest artykułem. Jest kompletną ścieżką poznania jednego zagadnien
 
 # Struktura tematu
 
-## 1. Wprowadzenie
-
 ## 1. Czy to brzmi znajomo?
 
 Każdy temat rozpoczyna się krótkim opisem sytuacji z życia, którą użytkownik może rozpoznać jako własne doświadczenie.
