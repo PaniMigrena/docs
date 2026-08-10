@@ -38,7 +38,9 @@ Temat trafia do Founding Topics, jeśli:
 
 ## Codzienność
 
-- [ ] Stres i migrena
+- Stres i migrena ✅
+Pierwsza ścieżka opracowana:
+- Migrena pojawia się dopiero, gdy stres mija
 - [ ] Sen i migrena
 - [ ] Hormony i migrena
 - [ ] Praca z migreną
