@@ -38,9 +38,17 @@ Temat trafia do Founding Topics, jeśli:
 
 ## Codzienność
 
-- Stres i migrena ✅
-Pierwsza ścieżka opracowana:
-- Migrena pojawia się dopiero, gdy stres mija
+
+## Stres i migrena
+
+### Ścieżka: Migrena pojawia się dopiero, gdy stres mija
+
+- Stress_01_Dlaczego_Migrena_Pojawia_Sie_Po_Stresie.md
+- Stress_02_Czy_Istnieje_Cos_Takiego_Jak_Migrena_Weekendowa.md
+- Stress_03_Jak_Odroznic_Przypadek_Od_Wzorca.md
+- Stress_04_Czy_Kazdy_Stres_Dziala_Tak_Samo.md
+- Stress_05_Dlaczego_Migrena_Pojawia_Sie_Dopiero_Nastepnego_Dnia.md
+- Stress_06_Jak_Zyc_Kiedy_Odpoczynek_Bywa_Wyzwalaczem.md
 - [ ] Sen i migrena
 - [ ] Hormony i migrena
 - [ ] Praca z migreną
